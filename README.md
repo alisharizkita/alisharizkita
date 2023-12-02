@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! My name is Alisha👋
+##### 👩‍🏫 Now I am an informatics engineering student at Gadjah Mada University
+##### 📊 I am interested in things about technology but currently I am in the learning stage. I want to learn more about data science. 
+##### 🎬 I enjoy reading books and watching films
+##### ✏ Funfact : I am left-handed
+##### 🙇‍♀️ Motto : To a great mind, nothing is little
 
 <!--
 **alisharizkita/alisharizkita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
